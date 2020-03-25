@@ -1,0 +1,12 @@
+Entidades
+ . ONG
+ . Caso (oncident)
+
+Funcionalidades
+ . Login de ONG
+ . Logout de ONG
+ . Cadastro de ONG
+ . Cadastrar novos casos
+ . Deletar novos casos
+ . Listar casos especificos de cada ONG
+ . Entrar em contato com a ONG
